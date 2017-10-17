@@ -1,6 +1,6 @@
 package FilaEncadeada;
 /*
- * Francisco Ivan de Sousa Alves - Matricula 20132045050108
+ * Francisco Ivan de Sousa Alves 
  */
 import javax.swing.JOptionPane;
 
